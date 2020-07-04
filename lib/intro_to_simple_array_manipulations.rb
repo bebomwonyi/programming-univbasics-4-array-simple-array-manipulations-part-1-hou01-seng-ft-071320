@@ -1,4 +1,4 @@
-def colors_in_the_rainbow(colors_in_the_rainbow, next_color)
-  colors_in_the_rainbow = []
-  colors_in_the_rainbow.push (next_color)
+def colors_in_the_rainbow(colors, next_color)
+  colors = []
+  colors.push (next_color)
 end
