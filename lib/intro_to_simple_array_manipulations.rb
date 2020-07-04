@@ -3,3 +3,4 @@ def method1 ( array, stin)
   array.push(stin)
 end
 
+def method2
