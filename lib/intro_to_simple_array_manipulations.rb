@@ -1,4 +1,4 @@
-def method1 ( array, stin)
+def colors_in_the_rainbow( array, stin)
   array = []
   array.push(stin)
 end
