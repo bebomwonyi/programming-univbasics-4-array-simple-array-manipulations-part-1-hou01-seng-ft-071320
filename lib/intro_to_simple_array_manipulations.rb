@@ -15,3 +15,5 @@ end
 def pop_with_args(array)
   2.times{array.pop}
 end
+
+def using_shift
