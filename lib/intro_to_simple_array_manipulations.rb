@@ -1,4 +1,4 @@
-def method1 (array , string)
-  array = []
-  array.push (string)
+def method1 ( thisarray , string)
+  thisarray = []
+  thisarray.push (string)
 end
